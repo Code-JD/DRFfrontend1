@@ -1,5 +1,9 @@
 # DRFfrontend1
 
+This is the React app using the api end points made by the back end `DRFbackend1`
+
+- Here is a link to [DRFbackend1](https://github.com/Code-JD/DRFbackend1)
+
 ```script
 npx create-react-app kanduapi .
 cd kanduapi
